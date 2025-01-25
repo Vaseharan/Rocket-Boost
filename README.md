@@ -4,8 +4,9 @@
 
 Check out the gameplay video of my project:
 
-[![Watch the video](## Gameplay Showcase 🎮
+## Gameplay Showcase 🎮
 
 Check out the gameplay video of my project:
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://youtu.be/YOUR_VIDEO_ID))]
+[![Watch the video](https://youtu.be/-oWT40H6S1M)](https://youtu.be/-oWT40H6S1M)
+
